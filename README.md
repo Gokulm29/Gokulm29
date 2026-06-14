@@ -81,8 +81,8 @@ print(me.motto())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aswath_tamilan&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswath_tamilan&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gokulm29&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulm29&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" width="49%" />
 
 </div>
 
@@ -92,7 +92,7 @@ print(me.motto())
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=aswath_tamilan&theme=tokyonight&background=0D1117&border=0D1117" />
+<img src="https://streak-stats.demolab.com?user=Gokulm29&theme=tokyonight&background=0D1117&border=0D1117" />
 
 </div>
 
@@ -102,7 +102,7 @@ print(me.motto())
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aswath_tamilan&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulm29&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
 
 </div>
 
@@ -112,7 +112,7 @@ print(me.motto())
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aswath_tamilan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Gokulm29&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
@@ -182,7 +182,7 @@ Karpagam College of Engineering, Coimbatore, India — CGPA: 7.50 (2022 – 2026
 
 📫 Reach me at **gokulmani200429@gmail.com** | 📍 Chennai, Tamil Nadu, India
 
-<img src="https://komarev.com/ghpvc/?username=aswath_tamilan&style=flat-square&color=70A5FD" />
+<img src="https://komarev.com/ghpvc/?username=Gokulm29&style=flat-square&color=70A5FD" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
