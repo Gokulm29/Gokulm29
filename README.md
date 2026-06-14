@@ -153,7 +153,7 @@ print(me.motto())
 |----------------|------------|------|
 | Python Development Internship | Octanet Services | Oct 2023 |
 | Data Analytics With Python | NPTEL | Apr 2024 |
-| Data Visualization with Power BI | — | Aug 2024 |
+| Data Visualization with Power BI | GreatLearning| Aug 2024 |
 | MongoDB, AI and Vector Search | MongoDB | Sep 2024 |
 | Qlik Sense Business Analysts Qualification | Qlik | Oct 2024 |
 
@@ -164,9 +164,10 @@ print(me.motto())
 ### 🎓 Education
 
 **B.Tech in Artificial Intelligence and Data Science**
-Karpagam College of Engineering, Coimbatore, India — CGPA: 7.50 (2022 – 2026)
+Karpagam College of Engineering, Coimbatore, India — CGPA: 7.60 (2022 – 2026)
 
 **Higher Secondary Certificate (HSC)** — S.B.K Hr.Sec School, State Board (2022)
+
 **Secondary School Leaving Certificate (SSLC)** — S.B.K Hr.Sec School, State Board (2020)
 
 ---
@@ -182,6 +183,7 @@ Karpagam College of Engineering, Coimbatore, India — CGPA: 7.50 (2022 – 2026
 📫 Reach me at **gokulmani200429@gmail.com** | 📍 Chennai, Tamil Nadu, India
 
 <img src="https://komarev.com/ghpvc/?username=Gokulm29&style=flat-square&color=70A5FD" />
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
