@@ -183,8 +183,9 @@ Karpagam College of Engineering, Coimbatore, India — CGPA: 7.60 (2022 – 2026
 📫 Reach me at **gokulmani200429@gmail.com** | 📍 Chennai, Tamil Nadu, India
 
 <img src="https://komarev.com/ghpvc/?username=Gokulm29&style=flat-square&color=70A5FD" />
+</div>
 
-
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
