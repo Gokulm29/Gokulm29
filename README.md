@@ -18,7 +18,7 @@ class Gokul:
         self.name = "Gokul M"
         self.location = "Chennai, Tamil Nadu, India"
         self.degree = "B.Tech in Artificial Intelligence and Data Science"
-        self.college = "Karpagam College of Engineering (CGPA: 7.50)"
+        self.college = "Karpagam College of Engineering (CGPA: 7.60)"
         self.stack = [
             "Python", "SQL", "Pandas", "NumPy", "Scikit-learn",
             "TensorFlow", "Keras", "Matplotlib", "Seaborn", "Streamlit"
