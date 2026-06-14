@@ -3,7 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gokul%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Engineer%20%7C%20Data%20Scientist%20%7C%20Data%20Engineer&descAlignY=62&descSize=16" />
 
 <a href="https://github.com/aswath_tamilan">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Aspiring+Data+Scientist+%7C+ML%2FDL+Enthusiast;Building+AI-driven+solutions+for+real-world+problems;Python+%7C+TensorFlow+%7C+Scikit-learn+%7C+LangChain;Always+exploring+new+AI+%26+ML+technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Aspiring+Data+Scientist+%7C+ML%2FDL+Enthusiast;
+Building+AI-driven+solutions+for+real-world+problems;Python+%7C+TensorFlow+%7C+Scikit-learn+%7C+LangChain;Always+exploring+new+AI+%26+ML+technologies" />
 </a>
 
 </div>
